@@ -1,7 +1,7 @@
 BIEE11 NQquery.log Parser
 =========================
 
-## Parser 
+## Parser PHP 7.2
 
 Файл `parse.php` выполняет парсинг BIEE11 NQquery лог файлов текстового формата, старая версия логов.
 
